@@ -3,7 +3,7 @@ A Simple FiveM Dimension Script
 Requierements:
 
 ESX Framework
+____________________________
 
 
-
-Jetset_Mehmet
+By Jetset_Mehmet
